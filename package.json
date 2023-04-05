@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "index.html"
     "start": "node index.js"
   },
   "repository": {
